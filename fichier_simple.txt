@@ -1,0 +1,14 @@
+Question 16 : Qu'est ce que Docker ? A quoi cela sert-il ?
+
+Docker est une plateforme permettant de créer, déployer et gérer des applications dans des conteneurs.
+
+Question 17 : Qu'est ce que la CI et la CD ? Pourquoi est-ce utile ?
+CI est le processus d'intégration automatique du code dans une base commune.
+CD étend la CI pour automatiser le déploiement des changements.
+Cela réduit les erreurs humaines et accélère les livraisons.
+
+Question 18 : Qu'avez vous pensé du cours ?
+J'ai bien aimé suivre ce cours, le fait de pouvoir directement appliquer le cours sur des exemples est une pratique
+que j'ai apprécié.
+
+
